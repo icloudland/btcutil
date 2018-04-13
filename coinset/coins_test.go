@@ -11,10 +11,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/coinset"
+	"github.com/icloudland/btcdx/chaincfg/chainhash"
+	"github.com/icloudland/btcdx/wire"
+	"github.com/icloudland/btcutil"
+	"github.com/icloudland/btcutil/coinset"
 )
 
 type TestCoin struct {

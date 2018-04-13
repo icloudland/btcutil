@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/icloudland/btcdx/chaincfg/chainhash"
+	"github.com/icloudland/btcdx/wire"
+	"github.com/icloudland/btcutil"
 	"github.com/davecgh/go-spew/spew"
 )
 
